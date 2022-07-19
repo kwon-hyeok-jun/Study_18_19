@@ -1,4 +1,4 @@
-﻿using System;
+﻿//using System;
 /*
 class ArrayTotalAvg
 {
@@ -83,3 +83,5 @@ class ArrayThree
 }
 */
 
+//Study_19
+using System;
